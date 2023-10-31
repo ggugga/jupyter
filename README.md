@@ -14,12 +14,14 @@ docker compose up -d
 
 실행 후, `http://your-ip:8888`을 방문하면 주피터 노트의 웹 관리 인터페이스가 나타나며, 비밀번호는 요구되지 않습니다.
 
-## 빈틈이 다시 나타나기
+## 취약성 되풀이
 
 new -> terminal을 선택하면 콘솔을 만들 수 있습니다:
 
-![](1.png)
+![image](https://github.com/ggugga/jupyter/assets/113493380/cf96557f-282b-415c-b277-841b7cf635d1)
+
 
 임의의 명령을 직접 실행합니다.
 
-![](2.png)
+![image](https://github.com/ggugga/jupyter/assets/113493380/d2ec9af0-3731-46e2-a0d0-e69cb14bc9da)
+
